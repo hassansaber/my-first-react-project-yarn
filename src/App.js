@@ -5,7 +5,6 @@ import BestPokemon from "./BestPokemon";
 const App = () => {
   return (
     <div style={{ textAlign: "center" }}>
-      
       <Logo />
       <BestPokemon />
       <CaughtPokemon />
